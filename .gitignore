@@ -1,0 +1,14 @@
+*.fasta
+*.csv
+*.fa
+*.txt
+*.svg
+*.fq
+*.gz
+*.out
+*.phr
+*.pin
+*.psq
+/Lecture07/split_reads_directory
+*.tophit
+*.dna
